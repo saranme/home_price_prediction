@@ -15,8 +15,8 @@ Prediction of the price of houses given their characteristics.
 7. Concatenation of coded variables
 8. Model RL
 9. Model Errors
-10. 10. Coeff. Determination
-11. Model setting
+10. Coeff. Determination
+11. Model fitting
 
 1. Variable description
 **SalePrice target variable**: house price.
